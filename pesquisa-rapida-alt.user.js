@@ -5,9 +5,11 @@ js
 // @version      1.2
 // @description  Botões rápidos que configuram e disparam a pesquisa automaticamente
 // @match        https://integrator6.alt.com.br/*
+// @downloadURL  https://raw.githubusercontent.com/Adriano445/tampermonkey-integrator-alt/main/pesquisa-rapida-alt.user.js
+// @updateURL    https://raw.githubusercontent.com/Adriano445/tampermonkey-integrator-alt/main/pesquisa-rapida-alt.user.js
 // @grant        none
 // ==/UserScript==
-
+  
 (function () {
   'use strict';
 
